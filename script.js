@@ -1,5 +1,7 @@
+// Inputan
 const totalBelanja = 120000;
 const uangDibayar = 150000;
+
 let kembalian = uangDibayar - totalBelanja;
 let dataTest = document.getElementById("test");
 
